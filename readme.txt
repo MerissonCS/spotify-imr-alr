@@ -1,4 +1,4 @@
-Projeto prático de HTML - CSS feito com intuito de aplicar os conhecimentos obtidos no evento < IMERSÃO FRONT-END 2ª EDICÃO > ALURA
+Projeto prático de HTML - CSS - JS feito com intuito de aplicar os conhecimentos obtidos no evento < IMERSÃO FRONT-END 2ª EDICÃO > ALURA
 
 https://merissoncs.github.io/spotify-imr-alr/
 
